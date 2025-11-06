@@ -1,0 +1,5 @@
+node_modules
+dist
+.vinxi
+app/generated
+bun.lockb
